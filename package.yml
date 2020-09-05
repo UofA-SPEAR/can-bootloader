@@ -54,3 +54,4 @@ templates:
     platform/uwb-beacon/include.jinja: 'platform/uwb-beacon/include.mk'
     platform/sensor-board/include.jinja: 'platform/sensor-board/include.mk'
     platform/actuator-board/include.jinja: 'platform/actuator-board/include.mk'
+    platform/speedy-motor-controller/include.jinja: 'platform/speedy-motor-controller/include.mk'
