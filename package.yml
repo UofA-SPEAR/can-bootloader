@@ -55,4 +55,4 @@ templates:
     platform/sensor-board/include.jinja: 'platform/sensor-board/include.mk'
     platform/actuator-board/include.jinja: 'platform/actuator-board/include.mk'
     platform/speedy-motor-controller/include.jinja: 'platform/speedy-motor-controller/include.mk'
-    platform/speedy-motor-controller/include.jinja: 'platform/speedy-comp-pdu/include.mk'
+    platform/speedy-comp-pdu/include.jinja: 'platform/speedy-comp-pdu/include.mk'
